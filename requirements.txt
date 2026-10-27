@@ -1,2 +1,4 @@
 pynspd==1.1.12
 shapely==2.1.2
+requests
+tqdm
